@@ -1,7 +1,7 @@
 **Assignment 2-3 Part B – IDE Features Reflection**
 
 LaTroya Bellamy
-Department of Computer Science, Southern New Hampshire University
+Data Analytics, Southern New Hampshire University
 IT-140: Introduction to Scripting
 Professor Walker
 September 17, 2026
